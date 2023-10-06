@@ -5,7 +5,7 @@
 ████████╗
 ╚██╔═██╔╝
  ╚═╝ ╚═╝ 
-         
+
     Given two 🎻 strings S and T containing only lowercase letters and "#" characters,
     return if they are equal when both are typed into empty text editors.
     👉 '#' character means a 'backspace' character.
